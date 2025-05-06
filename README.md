@@ -59,5 +59,3 @@ Execute o script principal:
 ## ❗ Aviso legal
 
 Este projeto é apenas para fins educacionais. Baixar conteúdo protegido por direitos autorais pode violar os Termos de Serviço do YouTube. Use por sua conta e risco.
-
-```
